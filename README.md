@@ -20,3 +20,6 @@ The basic workflow looks like this:
 1. Modify the files in your working copy.
 2. Select and stage changes you want to be a part of your next commit.
 3. Perform a commit that includes your changes.
+
+Pull and push
+
